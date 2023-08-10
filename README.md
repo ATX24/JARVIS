@@ -24,7 +24,8 @@ Implements the LangChain OpenAIFunctions Agent
 
 
 ## To Do: 
-- [x] Add a custom CSV agent to use as a tool to work with the Strava API. Should be able to analyze run data (find outliers, create summaries, etc.) 
+- [x] Add a custom CSV agent to use as a tool to work with the Strava API. Should be able to analyze run data (find outliers, create summaries, etc.)
+- [ ] Add Notion and Microsoft Office Tools
 - [ ] Improved memory solution using a vector database to store embeddings
 - [ ] Use the new Llama-2 model to eliminate the need for the OpenAI API (in progress)
 - [ ] Build a tool that hosts a BabyAGI agent (with the Llama-2 model) for more complex tasks
