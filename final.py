@@ -13,7 +13,7 @@ from audio import get_audio
 from custom_tools import getDuckDuckGoTool, getGmailTool, getLightsTool, getPythonTool
 
 #Set API keys
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "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" #Key is disabled haha I'm not that stupid
 
 
 jarv1 = jarvisCom()
