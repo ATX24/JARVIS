@@ -1,4 +1,4 @@
-# Friday 🤖 🦜
+# J.A.R.V.I.S 🤖 🦜
 Modern AI assistant powered by LangChain
 
 Implements the LangChain OpenAIFunctions Agent
