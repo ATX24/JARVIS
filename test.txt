@@ -1,0 +1,2 @@
+https://www.example.com/article1
+https://www.example.com/article2
